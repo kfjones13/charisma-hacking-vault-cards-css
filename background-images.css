@@ -1,6 +1,16 @@
-.section3 div:nth-child(3) {
-  /*
-  background-image: url('https://images.clickfunnels.com/0b/4410ebfb5744568e30da12b467be34/new-for-website-1-of-1-.jpg');
-  */
-  background-image: url('https://i.imgur.com/f74wlgn.jpg');
+.card-img-1, 
+[data-lesson-id].lesson-link.card-img-1:hover /* masterclass to upsell yellow */ {
+	background-image: url('https://i.imgur.com/f74wlgn.jpg');
+}
+.card-img-2, 
+[data-lesson-id].lesson-link.card-img-2:hover { /* masterclass to upsell purple */
+	background-image: url('https://i.imgur.com/frkEibK.jpg');
+}
+.card-img-3, 
+[data-lesson-id].lesson-link.card-img-3:hover { /* masterclass to upsell blue */
+	background-image: url('https://i.imgur.com/yz6bsDq.jpg');
+}
+.card-img-4, 
+[data-lesson-id].lesson-link.card-img-4:hover { /* masterclass to upsell lime green */
+	background-image: url('https://i.imgur.com/wtYvtXW.jpg');
 }
