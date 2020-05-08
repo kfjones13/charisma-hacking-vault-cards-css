@@ -14,3 +14,8 @@
 [data-lesson-id].lesson-link.card-img-4:hover { /* masterclass to upsell lime green */
 	background-image: url('https://i.imgur.com/wtYvtXW.jpg');
 }
+
+.card-img-5,
+[data-lesson-id].lesson-link.card-img-5:hover { /* Hacking Russell Brunson - Vocal Pattern Interrupts: Intonation (FB Training) Green/Pink */
+	background-image: url('https://i.imgur.com/EsbYB3h.png');
+}
