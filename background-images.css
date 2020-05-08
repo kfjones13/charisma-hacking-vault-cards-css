@@ -1,21 +1,27 @@
 .card-img-1, 
-[data-lesson-id].lesson-link.card-img-1:hover /* masterclass to upsell yellow */ {
+[data-lesson-id].lesson-link.card-img-1:hover,
+.membershipNavInner li a.activeMemberNav.card-img-1 {  /* masterclass to upsell yellow */
 	background-image: url('https://i.imgur.com/f74wlgn.jpg');
 }
 .card-img-2, 
-[data-lesson-id].lesson-link.card-img-2:hover { /* masterclass to upsell purple */
+[data-lesson-id].lesson-link.card-img-2:hover,
+.membershipNavInner li a.activeMemberNav.card-img-2 { /* masterclass to upsell purple */
 	background-image: url('https://i.imgur.com/frkEibK.jpg');
 }
 .card-img-3, 
-[data-lesson-id].lesson-link.card-img-3:hover { /* masterclass to upsell blue */
+[data-lesson-id].lesson-link.card-img-3:hover,
+.membershipNavInner li a.activeMemberNav.card-img-3 { /* masterclass to upsell blue */
 	background-image: url('https://i.imgur.com/yz6bsDq.jpg');
 }
 .card-img-4, 
-[data-lesson-id].lesson-link.card-img-4:hover { /* masterclass to upsell lime green */
+[data-lesson-id].lesson-link.card-img-4:hover,
+.membershipNavInner li a.activeMemberNav.card-img-4 { /* masterclass to upsell lime green */
 	background-image: url('https://i.imgur.com/wtYvtXW.jpg');
 }
 
 .card-img-5,
-[data-lesson-id].lesson-link.card-img-5:hover { /* Hacking Russell Brunson - Vocal Pattern Interrupts: Intonation (FB Training) Green/Pink */
+[data-lesson-id].lesson-link.card-img-5:hover,
+.membershipNavInner li a.activeMemberNav.card-img-5 { /* Hacking Russell Brunson - Vocal Pattern Interrupts: Intonation (FB Training) Green/Pink */
 	background-image: url('https://i.imgur.com/EsbYB3h.png');
 }
+
