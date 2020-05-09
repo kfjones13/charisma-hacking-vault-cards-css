@@ -89,44 +89,51 @@
 [data-lesson-id].lesson-link.card-img-16:hover,
 .membershipNavInner li a.activeMemberNav.card-img-16 { /* Calls to Action dont sound desperate */
 	background-image: url('https://i.imgur.com/AQ4IjBk.png');
-	
+}
+
 .card-img-17,
 [data-lesson-id].lesson-link.card-img-17:hover,
 .membershipNavInner li a.activeMemberNav.card-img-17 { /* What your zoom set-up says about your pricing */
 	background-image: url('https://i.imgur.com/2n14CCG.png');
-	
+}
+
 .card-img-18,
 [data-lesson-id].lesson-link.card-img-18:hover,
 .membershipNavInner li a.activeMemberNav.card-img-18 { /* Breaking Down Your Masterclass */
 	background-image: url('https://i.imgur.com/lxWiFpL.jpg');
-	
+}
+
 .card-img-19,
 [data-lesson-id].lesson-link.card-img-19:hover,
 .membershipNavInner li a.activeMemberNav.card-img-19 { /* How to give a live speech like russell brunson */
 	background-image: url('https://i.imgur.com/qEHb8iW.jpg');
-	
+}
+
 .card-img-20,
 [data-lesson-id].lesson-link.card-img-20:hover,
 .membershipNavInner li a.activeMemberNav.card-img-20 { /* Bundle: Masterclass to upsell */
 	background-image: url('https://i.imgur.com/ZsmnG6G.jpg');
-	
+}
+
 .card-img-21,
 [data-lesson-id].lesson-link.card-img-21:hover,
 .membershipNavInner li a.activeMemberNav.card-img-21 { /* Bundle: Do it Live */
 	background-image: url('https://i.imgur.com/Camjz8e.jpg');
-	
+}
+
 .card-img-22,
 [data-lesson-id].lesson-link.card-img-22:hover,
 .membershipNavInner li a.activeMemberNav.card-img-22 { /* Bundle: Hacking Kathryn Jones */
 	background-image: url('https://i.imgur.com/8laUm4i.jpg');
-	
+}
+
 .card-img-23,
 [data-lesson-id].lesson-link.card-img-23:hover,
 .membershipNavInner li a.activeMemberNav.card-img-23 { /* Bundle: Russell Brunson Hacks */
 	background-image: url('https://i.imgur.com/KogzDHR.jpg');
-	
+}	
 .card-img-24,
 [data-lesson-id].lesson-link.card-img-24:hover,
 .membershipNavInner li a.activeMemberNav.card-img-24 { /* Bundle: Lights Camera Action */
 	background-image: url('https://i.imgur.com/g3gY5p8.jpg');
-
+}
