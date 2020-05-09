@@ -1,27 +1,132 @@
 .card-img-1, 
 [data-lesson-id].lesson-link.card-img-1:hover,
-.membershipNavInner li a.activeMemberNav.card-img-1 {  /* masterclass to upsell yellow */
-	background-image: url('https://i.imgur.com/f74wlgn.jpg');
+.membershipNavInner li a.activeMemberNav.card-img-1 {  /* the speed of interrupts */
+	background-image: url('https://i.imgur.com/MGxj2oe.png');
 }
 .card-img-2, 
 [data-lesson-id].lesson-link.card-img-2:hover,
-.membershipNavInner li a.activeMemberNav.card-img-2 { /* masterclass to upsell purple */
-	background-image: url('https://i.imgur.com/frkEibK.jpg');
+.membershipNavInner li a.activeMemberNav.card-img-2 { /* story to a training */
+	background-image: url('https://i.imgur.com/hphEznW.png');
 }
 .card-img-3, 
 [data-lesson-id].lesson-link.card-img-3:hover,
-.membershipNavInner li a.activeMemberNav.card-img-3 { /* masterclass to upsell blue */
-	background-image: url('https://i.imgur.com/yz6bsDq.jpg');
+.membershipNavInner li a.activeMemberNav.card-img-3 { /* holepunch */
+	background-image: url('https://i.imgur.com/B5gPtg2.png');
 }
 .card-img-4, 
 [data-lesson-id].lesson-link.card-img-4:hover,
-.membershipNavInner li a.activeMemberNav.card-img-4 { /* masterclass to upsell lime green */
-	background-image: url('https://i.imgur.com/wtYvtXW.jpg');
+.membershipNavInner li a.activeMemberNav.card-img-4 { /* topic, title, result */
+	background-image: url('https://i.imgur.com/vDAomWv.jpg');
 }
 
 .card-img-5,
 [data-lesson-id].lesson-link.card-img-5:hover,
-.membershipNavInner li a.activeMemberNav.card-img-5 { /* Hacking Russell Brunson - Vocal Pattern Interrupts: Intonation (FB Training) Green/Pink */
-	background-image: url('https://i.imgur.com/EsbYB3h.png');
+.membershipNavInner li a.activeMemberNav.card-img-5 { /* How to speak like Kathryn */
+	background-image: url('https://i.imgur.com/LITs6q0.png');
 }
+
+.card-img-6,
+[data-lesson-id].lesson-link.card-img-6:hover,
+.membershipNavInner li a.activeMemberNav.card-img-6 { /* Invading Personal Space */
+	background-image: url('https://i.imgur.com/7S4virt.png');
+}
+
+.card-img-7,
+[data-lesson-id].lesson-link.card-img-7:hover,
+.membershipNavInner li a.activeMemberNav.card-img-7 { /* Relevant details for a story */
+	background-image: url('https://i.imgur.com/hCpv0vV.png');
+}
+
+.card-img-8,
+[data-lesson-id].lesson-link.card-img-8:hover,
+.membershipNavInner li a.activeMemberNav.card-img-8 { /* Dream Partners from a Webinar */
+	background-image: url('https://i.imgur.com/EgVNFSv.png');
+}
+
+.card-img-9,
+[data-lesson-id].lesson-link.card-img-9:hover,
+.membershipNavInner li a.activeMemberNav.card-img-9 { /* How To Train Like Russell Brunson */
+	background-image: url('https://i.imgur.com/SC4HelU.jpg');
+}
+
+.card-img-10,
+[data-lesson-id].lesson-link.card-img-10:hover,
+.membershipNavInner li a.activeMemberNav.card-img-10 { /* How to deal with bad wifi during interviews */
+	background-image: url('https://i.imgur.com/D1ffxjk.png');
+}
+
+.card-img-11,
+[data-lesson-id].lesson-link.card-img-11:hover,
+.membershipNavInner li a.activeMemberNav.card-img-11 { /* Copy hooks that sing well */
+	background-image: url('https://i.imgur.com/JtGYscg.png');
+}
+
+.card-img-12,
+[data-lesson-id].lesson-link.card-img-12:hover,
+.membershipNavInner li a.activeMemberNav.card-img-12 { /* Keep em warm masterclass upsell */
+	background-image: url('https://i.imgur.com/7Ucffcg.jpg');
+}
+
+.card-img-13,
+[data-lesson-id].lesson-link.card-img-13:hover,
+.membershipNavInner li a.activeMemberNav.card-img-13 { /* Hacking Russell Facebook Ads */
+	background-image: url('https://i.imgur.com/7uNuwxN.jpg');
+}
+
+.card-img-14,
+[data-lesson-id].lesson-link.card-img-14:hover,
+.membershipNavInner li a.activeMemberNav.card-img-14 { /* Knowledge to Action Masterclass */
+	background-image: url('https://i.imgur.com/J6BsH4D.jpg');
+}
+
+.card-img-15,
+[data-lesson-id].lesson-link.card-img-15:hover,
+.membershipNavInner li a.activeMemberNav.card-img-15 { /* Virtual Summit Interaction Kathryn */
+	background-image: url('https://i.imgur.com/90Trd0Q.png');
+}
+
+.card-img-16,
+[data-lesson-id].lesson-link.card-img-16:hover,
+.membershipNavInner li a.activeMemberNav.card-img-16 { /* Calls to Action dont sound desperate */
+	background-image: url('https://i.imgur.com/AQ4IjBk.png');
+	
+.card-img-17,
+[data-lesson-id].lesson-link.card-img-17:hover,
+.membershipNavInner li a.activeMemberNav.card-img-17 { /* What your zoom set-up says about your pricing */
+	background-image: url('https://i.imgur.com/2n14CCG.png');
+	
+.card-img-18,
+[data-lesson-id].lesson-link.card-img-18:hover,
+.membershipNavInner li a.activeMemberNav.card-img-18 { /* Breaking Down Your Masterclass */
+	background-image: url('https://i.imgur.com/lxWiFpL.jpg');
+	
+.card-img-19,
+[data-lesson-id].lesson-link.card-img-19:hover,
+.membershipNavInner li a.activeMemberNav.card-img-19 { /* How to give a live speech like russell brunson */
+	background-image: url('https://i.imgur.com/qEHb8iW.jpg');
+	
+.card-img-20,
+[data-lesson-id].lesson-link.card-img-20:hover,
+.membershipNavInner li a.activeMemberNav.card-img-20 { /* Bundle: Masterclass to upsell */
+	background-image: url('https://i.imgur.com/ZsmnG6G.jpg');
+	
+.card-img-21,
+[data-lesson-id].lesson-link.card-img-21:hover,
+.membershipNavInner li a.activeMemberNav.card-img-21 { /* Bundle: Do it Live */
+	background-image: url('https://i.imgur.com/Camjz8e.jpg');
+	
+.card-img-22,
+[data-lesson-id].lesson-link.card-img-22:hover,
+.membershipNavInner li a.activeMemberNav.card-img-22 { /* Bundle: Hacking Kathryn Jones */
+	background-image: url('https://i.imgur.com/8laUm4i.jpg');
+	
+.card-img-23,
+[data-lesson-id].lesson-link.card-img-23:hover,
+.membershipNavInner li a.activeMemberNav.card-img-23 { /* Bundle: Russell Brunson Hacks */
+	background-image: url('https://i.imgur.com/KogzDHR.jpg');
+	
+.card-img-24,
+[data-lesson-id].lesson-link.card-img-24:hover,
+.membershipNavInner li a.activeMemberNav.card-img-24 { /* Bundle: Lights Camera Action */
+	background-image: url('https://i.imgur.com/g3gY5p8.jpg');
 
